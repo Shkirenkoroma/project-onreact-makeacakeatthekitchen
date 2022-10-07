@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/project-onreact-makeacakeatthekitchen/static/css/main.1cc71b98.css",
+    "main.js": "/github.io/project-onreact-makeacakeatthekitchen/static/js/main.e036f0f8.js",
+    "static/js/787.7abebba4.chunk.js": "/github.io/project-onreact-makeacakeatthekitchen/static/js/787.7abebba4.chunk.js",
+    "index.html": "/github.io/project-onreact-makeacakeatthekitchen/index.html",
+    "main.1cc71b98.css.map": "/github.io/project-onreact-makeacakeatthekitchen/static/css/main.1cc71b98.css.map",
+    "main.e036f0f8.js.map": "/github.io/project-onreact-makeacakeatthekitchen/static/js/main.e036f0f8.js.map",
+    "787.7abebba4.chunk.js.map": "/github.io/project-onreact-makeacakeatthekitchen/static/js/787.7abebba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc71b98.css",
+    "static/js/main.e036f0f8.js"
+  ]
+}
